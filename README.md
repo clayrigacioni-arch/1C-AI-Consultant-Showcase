@@ -1,3 +1,4 @@
+**English** | [Русский](README_RU.md)
 # AI Analytics Assistant for 1C:Enterprise
 
 ![AI Analytics Assistant for 1C:Enterprise](github-social-preview.jpg)
