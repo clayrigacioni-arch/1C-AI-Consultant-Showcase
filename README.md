@@ -1,6 +1,6 @@
 # AI Analytics Assistant for 1C:Enterprise
 
-![AI Analytics Assistant for 1C:Enterprise](github-social-preview.png)
+![AI Analytics Assistant for 1C:Enterprise](github-social-preview.jpg)
 
 
 An AI-powered analytics assistant that allows users to retrieve and visualize data from 1C:Enterprise using natural-language questions.
