@@ -37,6 +37,30 @@ Texnologiyalar: 1C:Enterprise 8.3, BSL, SKD, standart hesabatlar, OpenAI API, HT
 
 Repozitoriyada layihənin açıq təsviri və nümayiş materialları yerləşdirilir. Mənbə kodu, quraşdırma faylları və süni intellektin daxili təlimatları yayımlanmır.
 
+## v3 nümayişi: sorğu → hesabat
+
+Demo bazadan götürülmüş ekran görüntüləri mətn sorğusunu və nəticədə formalaşan standart 1C hesabatını göstərir.
+
+### Mal hərəkəti — Azərbaycan dilində sorğu
+
+Sorğu: «anbarlar üzrə mal hərəkətini göstər 2023-cü il üzrə».
+
+![Azərbaycan dilində mal hərəkəti sorğusu](screenshots/v3/warehouse-question-az.jpg)
+
+Nəticə: 01.01.2023–31.12.2023 dövrü üzrə ilkin qalıq, mədaxil, məxaric və son qalığı göstərən anbar hesabatı.
+
+![2023-cü il üzrə anbar hesabatı](screenshots/v3/warehouse-report.jpg)
+
+### Alışların təhlili — rus dilində sorğu
+
+2022-ci il üzrə təchizatçılar və məhsullar əsasında alış məbləğlərinin göstərilməsi barədə sorğu.
+
+![Rus dilində alışların təhlili sorğusu](screenshots/v3/purchases-question-ru.jpg)
+
+Nəticə: 01.01.2022–31.12.2022 dövrü üzrə təchizatçılar və məhsullar əsasında qruplaşdırılmış alış hesabatı.
+
+![2022-ci il üzrə təchizatçılar və məhsullar əsasında alış hesabatı](screenshots/v3/purchases-report.jpg)
+
 ## Əvvəlki versiyaların ekran görüntüləri
 
 Aşağıdakı şəkillər məhsulun əvvəlki versiyalarının interfeysini və vizuallaşdırma imkanlarını göstərir. Bunlar v3-ün ekran görüntüləri deyil. Materiallar demo bazada hazırlanıb.

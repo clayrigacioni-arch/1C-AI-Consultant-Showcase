@@ -37,6 +37,30 @@ Technologies: 1C:Enterprise 8.3, BSL, DCS, standard reports, OpenAI API, HTTP/JS
 
 This repository contains the public product description and demonstration materials. Source code, distribution files, and internal AI instructions are not published.
 
+## v3 demo: question → report
+
+Screenshots from the demonstration database show a natural-language question followed by the resulting standard 1C report.
+
+### Warehouse movements — Azerbaijani question
+
+Question: “anbarlar üzrə mal hərəkətini göstər 2023-cü il üzrə”.
+
+![Warehouse movement question in Azerbaijani](screenshots/v3/warehouse-question-az.jpg)
+
+Result: the warehouse report for 01.01.2023–31.12.2023, showing opening balance, receipts, issues, and closing balance.
+
+![Warehouse movement report for 2023](screenshots/v3/warehouse-report.jpg)
+
+### Purchasing analysis — Russian question
+
+Question requesting purchase amounts for 2022 by supplier and product.
+
+![Purchasing analysis question in Russian](screenshots/v3/purchases-question-ru.jpg)
+
+Result: the purchasing report for 01.01.2022–31.12.2022, grouped by supplier and product.
+
+![Purchasing report for 2022 by supplier and product](screenshots/v3/purchases-report.jpg)
+
 ## Screenshots from previous versions
 
 The following images show the interface and visualization features of previous product versions. They are not v3 screenshots. The materials were created using a demonstration database.
